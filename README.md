@@ -24,16 +24,8 @@ I’m a full stack developer. Being a full-stack allows me to not only develop c
 
 
 ## Rapidfire  
-- 🔭 I’m currently working in Capgemini as a Software Developer.  
+- 🔭 I’m currently working in Capgemini as a Senior Software Developer.  
   
-
-- 🌱 I’m currently learning AWS  
-  
-
-- ❓ Ask me about anything related to Java full-stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
   
 
 <br/>  
